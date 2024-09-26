@@ -6,16 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>ENTRITT VERBOTEN</h1>
 
-
-
-    <section class="bitrix_tests">
-        <a href="/crm_lead_add/index.php">go to crm lead add</a>
-        <a href="./crm_contact_add/index.php">go to crm contact add</a>
-    </section>
-
-
-
+    <div class="links">
+        <a href="add_task_to_employee">add_task_to_employee</a>
+    </div>
 
 
 
